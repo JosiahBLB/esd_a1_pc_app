@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <Authors>Dmitry Brant</Authors>
+    <Description>A full-featured seven-segment control for Windows Forms.</Description>
+    <Copyright>Copyright © 2009- Dmitry Brant</Copyright>
+    <PackageProjectUrl>https://dmitrybrant.com</PackageProjectUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="SevenSegment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SevenSegmentArray.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

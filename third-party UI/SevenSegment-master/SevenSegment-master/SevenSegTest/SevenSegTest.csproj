@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <Authors>Dmitry Brant</Authors>
+    <Copyright>Copyright 2009- Dmitry Brant</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Update="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="SevenSegment\obj\Debug\net40\.NETFramework,Version=v4.0.AssemblyAttributes.cs" />
+    <Compile Remove="SevenSegment\obj\Debug\net7.0-windows\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Remove="SevenSegment\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Remove="SevenSegment\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Remove="SevenSegment\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Remove="SevenSegment\Properties\AssemblyInfo.cs" />
+    <Compile Remove="SevenSegment\SevenSegment.cs" />
+    <Compile Remove="SevenSegment\SevenSegmentArray.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SevenSegment\SevenSegment.csproj" />
+  </ItemGroup>
+</Project>

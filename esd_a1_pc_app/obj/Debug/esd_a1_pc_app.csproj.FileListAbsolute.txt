@@ -1,0 +1,12 @@
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\bin\Debug\esd_a1_pc_app.exe.config
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\bin\Debug\esd_a1_pc_app.exe
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\bin\Debug\esd_a1_pc_app.pdb
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.csproj.AssemblyReference.cache
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.Form1.resources
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.Properties.Resources.resources
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.csproj.GenerateResource.cache
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.csproj.CoreCompileInputs.cache
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.exe
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.pdb
+C:\Users\broughj\OneDrive - Fisher & Paykel Appliances\Documents\uni_programming\esd_a1_pc_app\esd_a1_pc_app\obj\Debug\esd_a1_pc_app.AquaGauge.resources
