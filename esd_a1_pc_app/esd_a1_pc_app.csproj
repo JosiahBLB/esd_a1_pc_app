@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppBoard.cs" />
     <Compile Include="AquaGauge.cs">
       <SubType>UserControl</SubType>
     </Compile>

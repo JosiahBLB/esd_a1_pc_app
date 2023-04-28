@@ -6,9 +6,8 @@ using System.Windows.Forms;
 
 namespace esd_a1_pc_app
 {
-    public static class Program
+    internal static class Program
     {
-        public static Form1 f1 = new Form1();
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -17,7 +16,7 @@ namespace esd_a1_pc_app
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(f1);
+            Application.Run(new Form1());
         }
     }
 }
