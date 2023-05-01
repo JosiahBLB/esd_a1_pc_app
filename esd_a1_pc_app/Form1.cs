@@ -65,12 +65,18 @@ namespace esd_a1_pc_app
         {
             if (this._SerialPort.IsOpen)
             {
-                this.SetPortC();
-                this.ReadPinA();
-                this.ReadPotVoltage(READ_POT1);
-                this.ReadPotVoltage(READ_POT2);
-                this.ReadLdrLevel();
-                this.SetLampLevel();
+                if (this.tabControl1.SelectedTab == this.tabPage2)
+                {
+                    this.SetPortC();   
+                    this.ReadPinA();
+                }
+                if (this.tabControl1.SelectedTab == this.tabPage3)
+                {
+                    this.ReadPotVoltage(READ_POT1);
+                    this.ReadPotVoltage(READ_POT2);
+                    this.ReadLdrLevel();
+                    this.SetLampLevel();
+                }
             }
         }
 
